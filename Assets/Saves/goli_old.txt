@@ -1,0 +1,7 @@
+BLOCK StarshipCore 0 0
+BLOCK Orange 0 0.625
+BLOCK Orange 0 1.25
+BLOCK Orange 0 1.875
+BLOCK Orange 0.625 0
+BLOCK Orange 1.25 0
+BLOCK Orange 1.875 0
